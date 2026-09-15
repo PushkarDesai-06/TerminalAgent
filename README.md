@@ -195,13 +195,7 @@ The cloned Scaler Academy website includes:
 
 ---
 
-## 🎬 Demo
 
-> A 2-3 minute YouTube demo showing the CLI agent running live and the final output opening in the browser.
->
-> **[Watch the Demo →](https://youtu.be/OMpFaIxf8e4)**
-
----
 
 ## 📝 License
 
@@ -209,6 +203,3 @@ MIT License — feel free to use, modify, and share.
 
 ---
 
-<p align="center">
-  Built with ❤️ for <strong>Scaler Academy</strong> • <strong>Powered by Abdul Kalam</strong>
-</p>
