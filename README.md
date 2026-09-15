@@ -2,9 +2,7 @@
 
 > **An AI-powered conversational CLI agent that clones the Scaler Academy website through intelligent multi-step reasoning.**
 
-Built as an Assignment for **Scaler Academy** — demonstrating how AI agents can think, plan, and build real websites step by step.
 
-**Powered by Abdul Kalam**
 
 ---
 
